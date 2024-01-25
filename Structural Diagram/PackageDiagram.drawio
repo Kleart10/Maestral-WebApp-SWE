@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2024-01-22T21:19:39.618Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="ocKCILVjqr0r9ngsELQw" version="22.1.21" type="device">
+  <diagram name="Page-1" id="Pq9D4SrP6_gQnhf1vM6d">
+    <mxGraphModel dx="1002" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Cs1r2Ts1-dJEC1b0OMYp-1" value="Hotel Managment System" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="150" y="70" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Cs1r2Ts1-dJEC1b0OMYp-2" value="Reservation&lt;br&gt;Managment&lt;br&gt;Package" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="320" y="70" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Cs1r2Ts1-dJEC1b0OMYp-3" value="Guest Service&amp;nbsp;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="145" y="190" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Cs1r2Ts1-dJEC1b0OMYp-4" value="Billing" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="210" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Cs1r2Ts1-dJEC1b0OMYp-5" value="Reporting" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="310" y="320" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Cs1r2Ts1-dJEC1b0OMYp-7" value="Login&amp;nbsp;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="450" y="190" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Cs1r2Ts1-dJEC1b0OMYp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.593;entryY=0.171;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Cs1r2Ts1-dJEC1b0OMYp-2" target="Cs1r2Ts1-dJEC1b0OMYp-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cs1r2Ts1-dJEC1b0OMYp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=70;exitPerimeter=0;entryX=0;entryY=0;entryDx=20;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Cs1r2Ts1-dJEC1b0OMYp-2" target="Cs1r2Ts1-dJEC1b0OMYp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cs1r2Ts1-dJEC1b0OMYp-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=20;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Cs1r2Ts1-dJEC1b0OMYp-4" target="Cs1r2Ts1-dJEC1b0OMYp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cs1r2Ts1-dJEC1b0OMYp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.455;entryY=0.206;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Cs1r2Ts1-dJEC1b0OMYp-1" target="Cs1r2Ts1-dJEC1b0OMYp-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cs1r2Ts1-dJEC1b0OMYp-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=120;exitDy=28;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=28;entryPerimeter=0;" edge="1" parent="1" source="Cs1r2Ts1-dJEC1b0OMYp-3" target="Cs1r2Ts1-dJEC1b0OMYp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
